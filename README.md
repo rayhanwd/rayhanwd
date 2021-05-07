@@ -22,8 +22,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://fb.com/kr.rayhan70" target="blank"><img align="center" src="https://i.ibb.co/0y2RkBj/f-logo-RGB-Blue-1024.png" height="30" width="30" /></a>
-<a href="https://linkedin.com/in/kazi-rayhan-b844b2171" target="blank"><img align="center" src="https://www.seekpng.com/png/small/8-84419_linkedin-logo-png-icon-linkedin-logo-png.png" height="30" width="30" /></a>
+<a href="https://fb.com/kr.rayhan70" target="blank"><img align="center" src="https://www.pngitem.com/pimgs/m/2-25415_new-facebook-logo-2019-hd-png-download.png" height="30" width="30" /></a>
+<a href="https://linkedin.com/in/kazi-rayhan-b844b2171" target="blank"><img align="center" src="https://www.vhv.rs/dpng/d/407-4071004_linkedin-icon-twitter-logo-svg-hd-png-download.png" height="30" width="30" /></a>
 <a href="https://medium.com/@krayhan" target="blank"><img align="center" src="https://cdn1.iconfinder.com/data/icons/social-media-circle-7/512/Circled_Medium_svg5-512.png"  height="30" width="30" /></a>
 </p>
 
