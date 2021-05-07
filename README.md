@@ -1,8 +1,9 @@
+<p align="left"> <img src="https://i.ibb.co/tPLvhyH/Colorful-Business-Data-General-Linkedin-Banner.png" alt="rayhanwd-banner" /></p>
 
 <h1 align="center">Hi 👋, I'm Kazi Rayhan</h1>
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rayhanwd&label=Profile%20views&color=0e75b6&style=flat" alt="rayhanwd" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=rayhanwd&label=Profile%20views&color=0e75b6&style=flat" alt="rayhanwd" /></p>
 
 
 - 📝 I regularly write articles on [https://krayhan.medium.com/](https://krayhan.medium.com/)
