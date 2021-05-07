@@ -38,6 +38,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rayhanwd&show_icons=true&locale=en&layout=compact" alt="rayhanwd" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rayhanwd&show_icons=true&locale=en" alt="rayhanwd" /></p>
+<p>&nbsp;<img style= 'margin-top:10px' align="center" src="https://github-readme-stats.vercel.app/api?username=rayhanwd&show_icons=true&locale=en" alt="rayhanwd" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rayhanwd&" alt="rayhanwd" /></p>
+<p><img style= 'margin-top:10px' align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rayhanwd&" alt="rayhanwd" /></p>
