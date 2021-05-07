@@ -22,13 +22,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-
-<a href="https://linkedin.com/in/kazi-rayhan-b844b2171" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/linked-in-alt.svg" alt="kazi-rayhan-b844b2171" height="30" width="40" /></a>
-
-<a href="https://fb.com/kr.rayhan70" target="blank"><img align="center" src="https://i.ibb.co/0y2RkBj/f-logo-RGB-Blue-1024.png" height="30" width="40" /></a>
-
-<a href="https://medium.com/@krayhan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/medium.svg" alt="@krayhan" height="30" width="40" /></a>
-
+<a href="https://linkedin.com/in/kazi-rayhan-b844b2171" target="blank"><img align="center" src="https://www.seekpng.com/png/small/8-84419_linkedin-logo-png-icon-linkedin-logo-png.png" height="30" width="30" /></a><a href="https://fb.com/kr.rayhan70" target="blank"><img align="center" src="https://i.ibb.co/0y2RkBj/f-logo-RGB-Blue-1024.png" height="30" width="30" /></a><a href="https://medium.com/@krayhan" target="blank"><img align="center" src="https://cdn1.iconfinder.com/data/icons/social-media-circle-7/512/Circled_Medium_svg5-512.png"  height="30" width="30" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
