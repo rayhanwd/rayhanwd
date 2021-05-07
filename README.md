@@ -22,9 +22,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://fb.com/kr.rayhan70" target="_blank"><img align="center" src="https://i.ibb.co/0y2RkBj/f-logo-RGB-Blue-1024.png" height="40" width="40" /></a>
+<a href="https://fb.com/kr.rayhan70" target="_blank"><img align="center" src="https://i.ibb.co/0y2RkBj/f-logo-RGB-Blue-1024.png" height="36" width="36" /></a>
 <a href="https://linkedin.com/in/kazi-rayhan-b844b2171" target="_blank"><img align="center" src="https://freepngimg.com/thumb/linkedin/8-2-linkedin-png-picture-thumb.png" height="40" width="40" /></a>
-<a href="https://medium.com/@krayhan" target="_blank"><img align="center" src="https://cdn1.iconfinder.com/data/icons/social-media-circle-7/512/Circled_Medium_svg5-512.png"  height="34" width="35" /></a>
+<a href="https://medium.com/@krayhan" target="_blank"><img align="center" src="https://cdn1.iconfinder.com/data/icons/social-media-circle-7/512/Circled_Medium_svg5-512.png"  height="35" width="35" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
