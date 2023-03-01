@@ -1,4 +1,4 @@
-<p align="left"> <img src="https://i.ibb.co/WDL5XJb/Vintage-Typewriter-Linked-In-Banner.png" alt="rayhanwd-banner" /></p>
+<p align="left"> <img src="https://i.ibb.co/kqgBzhb/1620518967639.jpg" alt="rayhanwd-banner" /></p>
 
 <h1 align="center">Hi 👋, I'm Kazi Rayhan</h1>
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
