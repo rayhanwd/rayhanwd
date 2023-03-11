@@ -8,13 +8,13 @@
 
 - 📝 I regularly write articles on [https://krayhan.medium.com/](https://krayhan.medium.com/)
 
-- 💬 Ask me about **React**
+- 💬 Ask me about **React Node**
 
 - 📫 How to reach me **rayhanbd4400@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1vQblI0v8I4V8PDCO08J4aiU9Ksuy9tfV/view](https://drive.google.com/file/d/1vQblI0v8I4V8PDCO08J4aiU9Ksuy9tfV/view)
 
-- ⚡ Fun fact **I think I am funny react**
+- ⚡ Fun fact **I think I am funny react node**
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
