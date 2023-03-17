@@ -1,7 +1,7 @@
 <p align="left"> <img src="https://i.ibb.co/kqgBzhb/1620518967639.jpg" alt="rayhanwd-banner" /></p>
 
 <h1 align="center">Hi 👋, I'm Kazi Rayhan</h1>
-<h3 align="center">A passionate frontend developer from Bangladesh</h3>
+<h3 align="center">A passionate Mern stack developer from Bangladesh</h3>
 
 <p align="left"> <img src="[https://komarev.com/ghpvc/?username=rayhanwd&label=Profile%20views&color=0e75b6&style=flat](https://media.licdn.com/dms/image/C5616AQFh6q-nedpujg/profile-displaybackgroundimage-shrink_350_1400/0/1620518967639?e=1683158400&v=beta&t=eW4WN1rXbYDEdLtlaPUOTOm9tOs8a62jVw0C4nrI2v8)" alt="rayhanwd" /></p>
 
